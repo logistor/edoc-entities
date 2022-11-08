@@ -1,2 +1,2 @@
 # edoc-entities
-Entities for eDoc reporting application.
+Entities for logistor eDoc reporting application.
